@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jessetirayoh/ShoppingList#readme",
   "dependencies": {
-    "electron": "^2.0.7"
+    "electron": "^2.0.7",
+    "jshint": "^2.9.6"
   }
 }
