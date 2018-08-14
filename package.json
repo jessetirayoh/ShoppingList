@@ -1,11 +1,19 @@
 {
   "name": "shoppinglist",
   "version": "1.0.0",
-  "description": "Shopping list app with electron.js",
+  "description": "Shopping List app with electron.js",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessetirayoh/ShoppingList.git"
+  },
   "author": "Jesse Gabriel",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jessetirayoh/ShoppingList/issues"
+  },
+  "homepage": "https://github.com/jessetirayoh/ShoppingList#readme"
 }
